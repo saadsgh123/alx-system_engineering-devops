@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chwod hello betty
+chwod betty hello
