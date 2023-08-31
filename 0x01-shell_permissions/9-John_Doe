@@ -1,2 +1,2 @@
 #!/bin/bash
-ls 731  hello
+chmod 731 hello
