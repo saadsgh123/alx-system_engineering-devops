@@ -1,5 +1,0 @@
-#!/bin/bash
-git add . 
-read _commit
-git commit -m "$_commit"
-git push
