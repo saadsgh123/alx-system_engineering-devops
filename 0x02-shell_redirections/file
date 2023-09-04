@@ -1,5 +1,5 @@
-total 60
-drwxrwxr-x 2 vagrant vagrant 4096 Sep  4 20:04 .
+total 56
+drwxrwxr-x 2 vagrant vagrant 4096 Sep  4 20:16 .
 drwxrwxr-x 6 vagrant vagrant 4096 Sep  4 16:43 ..
 -rwxrwxr-x 1 vagrant vagrant   32 Sep  4 17:00 0-hello_world
 -rwxrwxr-x 1 vagrant vagrant   28 Sep  4 17:53 1-confused_smiley
@@ -9,10 +9,10 @@ drwxrwxr-x 6 vagrant vagrant 4096 Sep  4 16:43 ..
 -rwxrwxr-x 1 vagrant vagrant   29 Sep  4 18:06 5-firstlines
 -rwxrwxr-x 1 vagrant vagrant   40 Sep  4 19:22 6-third_line
 -rwxrwxr-x 1 vagrant vagrant   80 Sep  4 19:31 7-file
--rwxrwxr-x 1 vagrant vagrant   42 Sep  4 20:04 8-cwd_state
--rw-rw-r-- 1 vagrant vagrant   38 Sep  4 19:30 \*\'Best
+-rwxrwxr-x 1 vagrant vagrant   36 Sep  4 20:11 8-cwd_state
 -rwxrwxr-x 1 vagrant vagrant  237 Sep  4 19:52 dotask
--rw-rw-r-- 1 vagrant vagrant    0 Sep  4 20:07 file
--rw-rw-r-- 1 vagrant vagrant    0 Sep  4 19:53 ls_cwd_content
+-rw-rw-r-- 1 vagrant vagrant    0 Sep  4 20:25 file
+-rw-rw-r-- 1 vagrant vagrant    0 Sep  4 20:16 new
 -rwxrwxr-x 1 vagrant vagrant   67 Sep  4 19:54 push
+-rw-rw-r-- 1 vagrant vagrant   28 Sep  4 16:45 README.md
 -rw-rw-r-- 1 vagrant vagrant   28 Sep  4 16:45 README.md
