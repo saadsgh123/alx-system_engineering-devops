@@ -1,0 +1,2 @@
+#!/bin/bash
+wk -F: '{print "User: " $1 "\tHome Directory: " $6}' /etc/passwd | sort
