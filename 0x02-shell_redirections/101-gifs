@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.gif" | read -r file; echo -n "${file%.gif}" | sort -f
+find . -type f -iname "*.gif" -printf "%f\n" | LC_COLLATE=C sort -f
