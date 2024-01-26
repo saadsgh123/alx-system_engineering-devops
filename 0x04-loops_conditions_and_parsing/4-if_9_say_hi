@@ -9,4 +9,5 @@ do
 	else
 		echo "Best School"
 	fi
+	((i+=1))
 done
