@@ -3,6 +3,7 @@
 
 hour=0
 minutes=0
+echo "Hour: $hour"
 while [[ minutes -le 59 ]]; do
 	echo "$minutes"
 	(( minutes++ ))
