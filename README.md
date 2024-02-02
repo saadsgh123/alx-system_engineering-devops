@@ -1,2 +1,1 @@
-thsi is the root of the repo
-task 1: echo hello, World
+# /0x08-networking_basics_2/
