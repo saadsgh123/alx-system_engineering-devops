@@ -1,2 +1,2 @@
-#!/bin/bash
-cat ~/.ssh/school | ssh ubuntu@107.23.109.194 "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
+#!/bin/env bash
+cat ~/.ssh/school | ssh ubuntu@107.23.109.194
