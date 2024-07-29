@@ -1,8 +1,10 @@
 #!/usr/bin/python3
+"""retreive data from an API"""
 import requests, json, sys
 
 
 def gather_data_from_Emp_API():
+    """main function"""
     id = sys.argv[1]
     url = "https://jsonplaceholder.typicode.com/"
     user = "users?id={}".format(id)
