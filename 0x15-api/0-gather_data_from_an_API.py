@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """retreive data from an API"""
-import requests, json, sys
+import requests
+import sys
 
 
 def gather_data_from_Emp_API():
@@ -19,6 +20,7 @@ def gather_data_from_Emp_API():
     print(f'Employee {username} is done with tasks({done_num}/{all_todo}):')
     for task in todosDone:
         print("\t " + task.get("title"))
+
 
 if __name__ == '__main__':
     gather_data_from_Emp_API()
