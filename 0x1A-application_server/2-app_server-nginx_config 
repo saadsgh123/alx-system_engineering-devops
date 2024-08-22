@@ -1,7 +1,7 @@
 server {
         location /hbnb_static {alias /data/web_static/current/;index index.html;}
 
-        add_header X-Served-By 392319-web-01;
+        add_header X-Served-By 520516-web-01;
         listen 80 default_server;
         listen [::]:80 default_server;
 
